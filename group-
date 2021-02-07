@@ -58,5 +58,5 @@ lxd:x:118:ubuntu,sergsheb_59
 _chrony:x:119:
 systemd-coredump:x:999:
 ubuntu:x:1000:sergsheb_59
-google-sudoers:x:1001:
+google-sudoers:x:1001:sergsheb_59
 sergsheb_59:x:1002:

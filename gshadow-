@@ -58,5 +58,5 @@ lxd:!::ubuntu,sergsheb_59
 _chrony:!::
 systemd-coredump:!!::
 ubuntu:!::sergsheb_59
-google-sudoers:!::
+google-sudoers:!::sergsheb_59
 sergsheb_59:!::
